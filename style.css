@@ -1,0 +1,38 @@
+.Navbar {float: right; 
+    
+  }
+
+ 
+
+.logo {display: inline-block;
+    width: 100px;
+    padding: 1%;
+}
+
+.heroImg{
+    height:600px;
+    padding:25px;
+
+}
+
+p { 
+    width: 1000px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 500px;
+    
+}
+
+footer {
+    background-color: #373738;
+    padding: center; 
+}
+
+footer ul {
+    display: inline-block;
+    vertical-align: top;
+    
+}
+
+footer li {
+    padding: center;
+}
